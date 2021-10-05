@@ -3,4 +3,10 @@
   width: 100%;
   background-color: lightblue;
   height:auto;
+  justify-content: space-around;
+
+}
+li {
+  list-style: none;
+  padding: 10px;
 }
